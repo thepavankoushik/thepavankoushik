@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Pavan Koushik Kommuri, Call Sign: [PyKay] (https://thpavankoushik.github.io)
+# Hi there 👋, I'm Pavan Koushik Kommuri, Call Sign: <a href="https://thpavankoushik.github.io" target="_blank">PyKay</a>
 
 
 
