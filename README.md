@@ -5,7 +5,7 @@
 <img src="./images/header_.png">
 <br><br>
 
-<a href="https://www.linkedin.com/in/thepavankoushik/">
+<a target="_blank" href="https://www.linkedin.com/in/thepavankoushik/">
   <img align="left" alt="PK's Linkdein" width="100px"  src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/thepavankoushik">
